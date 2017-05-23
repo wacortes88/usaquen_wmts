@@ -1,14 +1,14 @@
 {
-"name": "usaquen3",
-"version": "1.0.0",
-"description": "Servicio Usaquen",
-"attribution": "OSM",
-"type": "baselayer",
-"color": "#FFFFFF",
-"format": "jpg",
-"minzoom": "12",
-"maxzoom": "17",
-"bounds": "-74.04926,4.62161,-73.98168,4.87859",
-"scale": "1",
-"profile": "mercator"
+  "name": "usaquen3",
+  "version": "1.0.0",
+  "description": "Servicio Usaquen",
+  "attribution": "OSM",
+  "type": "baselayer",
+  "color": "#FFFFFF",
+  "format": "jpg",
+  "minzoom": "12",
+  "maxzoom": "17",
+  "bounds": "-74.04926,4.62161,-73.98168,4.87859",
+  "scale": "1",
+  "profile": "mercator"
 }
